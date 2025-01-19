@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning theoretical physics
+- 🔭 I’m currently working on open-source poker tools 
+- 🤔 I’m looking for help with the NablaPoker platform
+- 📫 How to reach me: andres@briones.ch
+
 <!--
 **Andres-Briones/Andres-Briones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
