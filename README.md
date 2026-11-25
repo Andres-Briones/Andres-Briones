@@ -33,7 +33,7 @@ My part was the physics and the data, in [**flame-in-freefall**](https://github.
 
 ### Tools I use
 
-Python (pandas, NumPy, SciPy, Flask) · TypeScript / Bun · Docker · Git · LLM agents and MCP
+Python (pandas, NumPy, SciPy, Flask) · Docker · Git · LLM agents and MCP
 
 ### Contact
 
