@@ -11,7 +11,8 @@ In one weekend at the NASA Space Apps hackathon, team **Orbita Chalaca** built *
 possible because we built it with AI coding agents.
 → [Live app](https://orbita-web-813905724775.us-central1.run.app)
 
-My part was the physics and the data, in [**flame-in-freefall**](https://github.com/Andres-Briones/flame-in-freefall):
+My part was the physics and the data, in [**flame-in-freefall**](https://github.com/Andres-Briones/flame-in-freefall)
+([demo of the data](https://andres-briones.github.io/flame-in-freefall/)):
 
 - one knowledge record per investigation (physics with equations, findings with quoted sources, limitations)
 - 2,177 test rows from NASA's PSI archive on a common schema, with every error found in the source data kept as a
@@ -23,11 +24,12 @@ My part was the physics and the data, in [**flame-in-freefall**](https://github.
 
 | | Project | What it is |
 |---|---|---|
+| 🐳 | [claudebox](https://github.com/Andres-Briones/claudebox) (fork) | Claude Code in Docker, my daily setup: rootless install without sudo, one login and shared memory across containers, self-improving agent configuration |
+| 🧾 | Dolibarr for Argentina: [l10n-ar](https://github.com/Andres-Briones/dolibarr-l10n-ar), [arca](https://github.com/Andres-Briones/dolibarr-arca), [mpago](https://github.com/Andres-Briones/dolibarr-mpago), [tienda](https://github.com/Andres-Briones/dolibarr-tienda), [meli](https://github.com/Andres-Briones/dolibarr-meli) | Open-source modules for a small Argentine business: tax ids and VAT, electronic invoicing, Mercado Pago, online shop, Mercado Libre (in progress, not yet deployed) |
 | 🤖 | [nabla-agent](https://github.com/Andres-Briones/nabla-agent) | Multi-agent coding orchestrator in Bun + TypeScript: role-specialised agents working in sandboxed containers (in progress) |
-| ♠️ | [NablaPoker](https://github.com/Andres-Briones/NablaPoker) | Open-source poker platform: online games, hand replayer, statistics (in progress) |
-| 📊 | [OpenPokerTracker](https://github.com/Andres-Briones/OpenPokerTracker) | Poker hand replayer and statistics tracker |
 | 💸 | [Splitty](https://github.com/Andres-Briones/Splitty) | Command-line tool that splits group expenses and finds the fewest payments to settle up |
 | 🎙️ | [TranscribeAudioWhisper](https://github.com/Andres-Briones/TranscribeAudioWhisper) | Command-line script that transcribes audio files with Whisper |
+| ♠️ | [NablaPoker](https://github.com/Andres-Briones/NablaPoker), [OpenPokerTracker](https://github.com/Andres-Briones/OpenPokerTracker) | Earlier poker projects: hand replayer and statistics (unfinished) |
 
 ### Tools I use
 
